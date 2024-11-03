@@ -96,9 +96,7 @@ You can run the program in two modes:
 
 This project is licensed under the MIT License. See `LICENSE` for more details.
 
-## Contributing
 
-Contributions are welcome! Feel free to fork the repository, make improvements, and submit a pull request.
 
 
 
